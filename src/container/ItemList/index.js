@@ -17,7 +17,6 @@ const ItemList = ({
           data["merchants"].map((val) => {
             return (
               <>
-              {console.log("priceLevel",val["priceLevel"],priceLevel)};
                 {stringSimilarity.compareTwoStrings(
                   provinces,
                   val["addressProvinceName"]

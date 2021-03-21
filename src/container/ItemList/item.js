@@ -21,11 +21,11 @@ const Item = ({
 }) => {
   return (
     <>
-      {(stringSimilarity.compareTwoStrings(wordSearch, shopNameTH) > 0.1 ||
-        stringSimilarity.compareTwoStrings(wordSearch, categoryName) > 0.1 ||
-        stringSimilarity.compareTwoStrings(wordSearch, subcategoryName) > 0.1 ||
-        stringSimilarity.compareTwoStrings(wordSearch, addressProvinceName) > 0.1 ||
-        wordSearch.length == 0) && (
+      {(stringSimilarity.compareTwoStrings(wordSearch, shopNameTH) > 0.001 ||
+        stringSimilarity.compareTwoStrings(wordSearch, categoryName) > 0.001 ||
+        stringSimilarity.compareTwoStrings(wordSearch, subcategoryName) > 0.001 ||
+        stringSimilarity.compareTwoStrings(wordSearch, addressProvinceName) > 0.001 ||
+        wordSearch.length === 0) && (
         <div class="md:flex shadow-lg  mx-6 md:mx-auto md:my-2 my-40 max-w-lg md:max-w-2xl h-64">
           <img
             class="h-full w-full md:w-1/3  object-cover rounded-lg rounded-r-none pb-5/6"
@@ -37,7 +37,7 @@ const Item = ({
               <h1 class="text-xl text-gray-800 font-bold mr-auto">
                 {shopNameTH}
               </h1>
-              {isOpen == "Y" ? (
+              {isOpen === "Y" ? (
                 <button class="bg-green-600 text-white px-2 py-2 rounded-md">
                   เปิดอยู่
                 </button>

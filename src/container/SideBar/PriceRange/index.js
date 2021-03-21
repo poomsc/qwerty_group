@@ -17,10 +17,10 @@ const PriceRange = ({ data: { priceRange }, setPriceLevel }) => {
           console.log(parseInt(e.target.value) + 1);
         }}
       >
+        <option value={5}>ไม่กำหนด</option>
         {priceRange.map((value, index) => {
           return <option value={index}>{value}</option>;
         })}
-         <option value={5}>ไม่กำหนด</option>
       </select>
     </div>
   );
