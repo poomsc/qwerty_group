@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/qwerty_group/static/css/main.7dc4d657.chunk.css",
+    "main.js": "/qwerty_group/static/js/main.13250954.chunk.js",
+    "main.js.map": "/qwerty_group/static/js/main.13250954.chunk.js.map",
+    "runtime-main.js": "/qwerty_group/static/js/runtime-main.c5ad9dac.js",
+    "runtime-main.js.map": "/qwerty_group/static/js/runtime-main.c5ad9dac.js.map",
+    "static/js/2.fef92767.chunk.js": "/qwerty_group/static/js/2.fef92767.chunk.js",
+    "static/js/2.fef92767.chunk.js.map": "/qwerty_group/static/js/2.fef92767.chunk.js.map",
+    "static/js/3.2feb3d02.chunk.js": "/qwerty_group/static/js/3.2feb3d02.chunk.js",
+    "static/js/3.2feb3d02.chunk.js.map": "/qwerty_group/static/js/3.2feb3d02.chunk.js.map",
+    "index.html": "/qwerty_group/index.html",
+    "static/css/main.7dc4d657.chunk.css.map": "/qwerty_group/static/css/main.7dc4d657.chunk.css.map",
+    "static/js/2.fef92767.chunk.js.LICENSE.txt": "/qwerty_group/static/js/2.fef92767.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/qwerty_group/static/media/Peace-Sans.f59a8de8.otf",
+    "static/media/logo.5531b895.png": "/qwerty_group/static/media/logo.5531b895.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5ad9dac.js",
+    "static/js/2.fef92767.chunk.js",
+    "static/css/main.7dc4d657.chunk.css",
+    "static/js/main.13250954.chunk.js"
+  ]
+}
