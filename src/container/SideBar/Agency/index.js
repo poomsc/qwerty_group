@@ -23,9 +23,7 @@ const Agency = () => {
   return (
     <fieldset class="pb-4">
       <div>
-        <legend class="text-base font-semibold text-gray-900">
-          ประเภทร้านค้า
-        </legend>
+        <legend class="text-base font-semibold text-gray-900">หน่วยงาน</legend>
       </div>
       <div class="mt-2 space-y-2">
         <RadioCheck value={"ทั้งหมด"} index={-1} />
