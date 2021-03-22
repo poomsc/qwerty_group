@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/qwerty_group/static/css/main.7dc4d657.chunk.css",
-    "main.js": "/qwerty_group/static/js/main.13250954.chunk.js",
-    "main.js.map": "/qwerty_group/static/js/main.13250954.chunk.js.map",
+    "main.js": "/qwerty_group/static/js/main.baf48dd5.chunk.js",
+    "main.js.map": "/qwerty_group/static/js/main.baf48dd5.chunk.js.map",
     "runtime-main.js": "/qwerty_group/static/js/runtime-main.c5ad9dac.js",
     "runtime-main.js.map": "/qwerty_group/static/js/runtime-main.c5ad9dac.js.map",
     "static/js/2.fef92767.chunk.js": "/qwerty_group/static/js/2.fef92767.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.c5ad9dac.js",
     "static/js/2.fef92767.chunk.js",
     "static/css/main.7dc4d657.chunk.css",
-    "static/js/main.13250954.chunk.js"
+    "static/js/main.baf48dd5.chunk.js"
   ]
 }
